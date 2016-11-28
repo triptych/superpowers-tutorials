@@ -3,17 +3,17 @@
 
 ### Introduction
 
-If you don't know nothing about Programming in Javascript (which TypeScript is based on)
-you will maybe need to look at a tutorial to have a first idea (like the track JavaScript on Khan Academy).
-Don't worry, coding/programming is not as difficult as we could imagine, it is about
+If you don't know anything about Programming in JavaScript (which TypeScript is based on)
+you will need to look at a tutorial to begin learning (like the track JavaScript on Khan Academy).
+Don't worry, coding/programming is not as difficult as we could imagine. It is about
 solving real problems with logic and not much about abstraction. It is important to not
 go fast and take the time to understand basic concepts. You could feel it is really
 slow and abstract to get a really simple thing, but it will go faster and more concrete
-as you understand by practicing this steps (the frustration comes often when we try
-  to do something we aren't prepared to do).
+as you understand by practicing this steps (the frustration comes often when we try 
+to do something we aren't prepared to do).
 
 However you can continue the tutorial and try to understand the basics by jumping in 
-right now and copying the code below in Superpowers, by repetition and practice alone,
+right now and copying the code below in Superpowers. By repetition and practice alone,
 exploring and testing, making mistakes and repairing them (which we call debugging,
 a fundamental concept in programming, where errors and mistakes are not to be avoid
 but understood) slowly but confidently, you will make amazing progress.
